@@ -1,0 +1,11 @@
+[INFO ] 2020-04-22 20:14:11.632 [main] Log4jDemo - This is information message
+[ERROR] 2020-04-22 20:14:11.639 [main] Log4jDemo - This is error message
+[WARN ] 2020-04-22 20:14:11.639 [main] Log4jDemo - This is warn message
+[FATAL] 2020-04-22 20:14:11.640 [main] Log4jDemo - This is fatal message
+[DEBUG] 2020-04-22 20:14:11.640 [main] Log4jDemo - This is debug message
+[TRACE] 2020-04-22 20:16:50.119 [main] Log4jDemo - This is trace message
+[INFO ] 2020-04-22 20:16:50.123 [main] Log4jDemo - This is information message
+[ERROR] 2020-04-22 20:16:50.123 [main] Log4jDemo - This is error message
+[WARN ] 2020-04-22 20:16:50.124 [main] Log4jDemo - This is warn message
+[FATAL] 2020-04-22 20:16:50.124 [main] Log4jDemo - This is fatal message
+[DEBUG] 2020-04-22 20:16:50.124 [main] Log4jDemo - This is debug message
